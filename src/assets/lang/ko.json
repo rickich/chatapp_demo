@@ -1,0 +1,71 @@
+{
+	"navigation": {
+		"signin": "로그인",
+		"signout": "로그아웃",
+		"users": "유저",
+		"messages": "메시지",
+		"tools": "툴",
+		"channel": "채널",
+		"language": "언어"
+	},
+	"home": {
+		"heroText": "팬과 아티스트의 세상",
+		"chatHead": "채팅",
+		"chatMsg1": "최애 토키메이트로부터의 프라이빗 메시지",
+		"chatMsg2": "기념일마다 설레는 토키메이트의 스페셜 메시지",
+		"chatMsg3": "토키메이트가 보내주는 사진과 영상을 무한대로 즐기기",
+		"liveHead": "라이브",
+		"liveMsg1": "내 최애의 라이브 방송 놓칠 일 이제 없다!",
+		"liveMsg2": "무제한 다시보기 까지",
+		"liveMsg3": "라이브에 다양한 표현까지 보내보세요",
+		"channelHead": "채널",
+		"channelMsg1": "최애의 스케줄 메시지로 받아보기",
+		"channelMsg2": "각종 이벤트 알림도 메시지로 편하게",
+		"earlybirdHead": "얼리버드",
+		"earlybirdDesc": "지금 가입하고 구독 첫 달에 무료 7일을 즐겨보세요!",
+		"earlybirdButton": "가입"
+	},
+	"error": {
+		"heading": "앗!",
+		"desc": "죄송합니다. 아래에서 에러를 확인해주세요.",
+		"cta": "홈으로 가기"
+	},
+	"signin": {
+		"heading": "로그인",
+		"email": "이메일",
+		"password": "비밀번호",
+		"forgot": "비밀번호를 잊으셨나요?",
+		"forgotAction": "재설정하기",
+		"buttonTxt": "로그인",
+		"signup": "가입"
+	},
+	"signup": {
+		"heading": "가입",
+		"email": "이메일",
+		"password": "비밀번호",
+		"passwordConfirm": "비밀번호 확인",
+		"nickname": "닉네임",
+		"birthday": "생년월일",
+		"buttonTxt": "생성",
+		"agreement": "다음의 모든 항목에 동의합니다. 만 14세 이상이며 <terms>이용약관</terms>, <privacy>개인정보 처리방침</privacy> 읽었으며 동의합니다."
+	},
+	"admin": {
+		"createUser": "유저 생성"
+	},
+	"admin-create": {
+		"heading": "유저 생성",
+		"img": "프로필 이미지",
+		"type": "유저 타입",
+		"bio": "소개",
+		"status": "상태 메시지",
+		"rate": "수수료율"
+	},
+	"admin-users": {
+		"heading": "유저",
+		"nickname": "닉네임",
+		"email": "이메일",
+		"dob": "생일",
+		"role": "권한",
+		"profileImg": "프로필 사진"
+	}
+}

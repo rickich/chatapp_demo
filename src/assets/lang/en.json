@@ -1,0 +1,71 @@
+{
+	"navigation": {
+		"signin": "Login",
+		"signout": "Logout",
+		"users": "Users",
+		"messages": "Messages",
+		"tools": "Tools",
+		"channel": "Channel",
+		"language": "Language"
+	},
+	"home": {
+		"heroText": "Universe for Fans and Artists",
+		"chatHead": "Chat",
+		"chatMsg1": "Private messages from your favorite Talkimate",
+		"chatMsg2": "Special messages from the Talkimate on anniversaries",
+		"chatMsg3": "Access to private photos and videos from the Talkimate",
+		"liveHead": "Live",
+		"liveMsg1": "Don’t miss another live stream",
+		"liveMsg2": "Enjoy Infinite replays",
+		"liveMsg3": "Show your love all over the stream!",
+		"channelHead": "Channel",
+		"channelMsg1": "Get notified on every artist schedules",
+		"channelMsg2": "Stay on top of all the events",
+		"earlybirdHead": "Early bird",
+		"earlybirdDesc": "Sign up now and get free 7-day added to your first month of subscription.",
+		"earlybirdButton": "Sign up"
+	},
+	"error": {
+		"heading": "Oops!",
+		"desc": "Sorry mate! Check below for the error.",
+		"cta": "Go back to Home"
+	},
+	"signin": {
+		"heading": "Login",
+		"email": "Email",
+		"password": "Password",
+		"forgot": "Forgot password?",
+		"forgotAction": "Reset now",
+		"buttonTxt": "LOGIN",
+		"signup": "Signup"
+	},
+	"signup": {
+		"heading": "Signup",
+		"email": "Email",
+		"password": "Password",
+		"passwordConfirm": "Password Confirm",
+		"nickname": "Nickname",
+		"birthday": "Birthday",
+		"buttonTxt": "Create",
+		"agreement": "I agree, I'm at least 14 years old and agree to the following terms. I've read and agree to the <terms>Terms and Conditions</terms> and <privacy>Privacy Policy</privacy>."
+	},
+	"admin": {
+		"createUser": "Create User"
+	},
+	"admin-create": {
+		"heading": "Create User",
+		"img": "Profile Image",
+		"type": "User Type",
+		"bio": "About",
+		"status": "Status Message",
+		"rate": "Commission Rate"
+	},
+	"admin-users": {
+		"heading": "Users",
+		"nickname": "Nickname",
+		"email": "Email",
+		"dob": "Birthday",
+		"role": "Role",
+		"profileImg": "Profile Image"
+	}
+}

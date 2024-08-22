@@ -1,0 +1,37 @@
+@import url("https://fonts.cdnfonts.com/css/overused-grotesk");
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
+@import url("https://fonts.cdnfonts.com/css/satoshi");
+@font-face {
+	font-family: "D2Coding";
+	src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.0/D2Coding.woff")
+		format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+*:lang(en) {
+	font-family: "Overused Grotesk", sans-serif;
+}
+*:lang(ko) {
+	font-family: "Spoqa Han Sans Neo", sans-serif;
+}
+
+body {
+	margin: 0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.ant-input:focus {
+	box-shadow: 0px 0px 0px 4px rgba(244, 235, 255, 1),
+		0px 1px 2px 0px rgba(16, 24, 40, 0.05) !important;
+	-webkit-box-shadow: 0px 0px 0px 4px rgba(244, 235, 255, 1),
+		0px 1px 2px 0px rgba(16, 24, 40, 0.05) !important;
+}
+
+.ant-input-affix-wrapper-focused {
+	box-shadow: 0px 0px 0px 4px rgba(244, 235, 255, 1),
+		0px 1px 2px 0px rgba(16, 24, 40, 0.05) !important;
+	-webkit-box-shadow: 0px 0px 0px 4px rgba(244, 235, 255, 1),
+		0px 1px 2px 0px rgba(16, 24, 40, 0.05) !important;
+}
